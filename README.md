@@ -1,9 +1,13 @@
 # Rich Telegram text for Kotlin
 Applies rich text format with Telegram entities (such as **bold**, _italic_, underline, and [links](https://github.com/iris2iris/rich-telegram-text-kotlin)) to plain text. 
 
-The results of execution can be either HTML-markup or Markdown code.
+✅ The results of execution can be either `HTML-markup` or `Markdown` code.
 
-Example plain text
+Example text:
+
+![Example text](https://iris-tg.ru/images/ddd.png)
+
+Plain text
 ```
 🗓 Правила беседы:
 Беседа строго для вопросов по функционалу Ириса, обсуждений и предложений по развитию.
